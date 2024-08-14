@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35125.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psikolog randevu projesi", "psikolog randevu projesi\psikolog randevu projesi.csproj", "{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFFEE53E-2BFB-4635-956B-99CC47372EDE}
+	EndGlobalSection
+EndGlobal

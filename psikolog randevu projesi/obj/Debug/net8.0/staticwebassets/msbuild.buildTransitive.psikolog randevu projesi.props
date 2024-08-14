@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\psikolog randevu projesi.props" />
+</Project>

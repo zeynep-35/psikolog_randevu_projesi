@@ -1,0 +1,50 @@
+﻿@model AppointmentUpdateDTO
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center">Randevu Güncelle</h2>
+            <form method="post" asp-action="Update">
+                <input type="hidden" asp-for="KullaniciId" placeholder=" ViewBag.kullaniciId" />
+                <div class="form-group">
+                    <label for="psikologname">Psikolog Adı</label>
+                    <input type="text" class="form-control" id="psikologname" asp-for="psikolog_adi">
+                </div>
+                <div class="form-group">
+                    <label for="appointmentdate">Randevu Başlangıç Tarihi</label>
+                    <input type="datetime-local" class="form-control" id="appointmentdate " asp-for="randevu_baslangic_tarihi">
+                </div>
+                <div class="form-group">
+                    <label for="appointmentdate">Randevu Bitiş Tarihi</label>
+                    <input type="datetime-local" class="form-control" id="appointmentdate" asp-for="randevu_bitis_tarihi">
+                </div>
+
+                <div class="form-group">
+                    <label for="bilgi">Hasta Bilgi</label>
+                    <textarea class="form-control" id="bilgi" rows="3" placeholder="Hasta hakkındaki  gerekli bilgileri girin" asp-for="hasta_bilgi"></textarea>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="serviceSelection">Hizmet Seçimi</label>
+                    <select class="form-control" id="serviceSelection" asp-for="HizmetId">
+                        <option value="4">Travma Sonrası Bireysel Terapi</option>
+                        <option value="6">Evlilik ve Çift İlişkileri Danışmanlığı</option>
+                        <option value="9">Aile İçi İletişim Problemleri Terapisi</option>
+                        <option value="10">Çocuk ve Ergen Gelişimi Danışmanlığı</option>
+                        <option value="11">Stres Yönetimi Grup Terapisi</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-block">Randevuyu Güncelle</button>
+            </form>
+        </div>
+        </div>
+    </div>
+</div>
+
+

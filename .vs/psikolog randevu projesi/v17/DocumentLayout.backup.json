@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|c:\\users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|solutionrelative:psikolog randevu projesi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|c:\\users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|solutionrelative:psikolog randevu projesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|c:\\users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|solutionrelative:psikolog randevu projesi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|c:\\users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE962B0A-938C-4DB7-B3FE-F58862B8ADAB}|psikolog randevu projesi\\psikolog randevu projesi.csproj|solutionrelative:psikolog randevu projesi\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "psikolog randevu projesi\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "psikolog randevu projesi\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T21:37:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "psikolog randevu projesi\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "psikolog randevu projesi\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:35:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "psikolog randevu projesi\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Admin\\Index.cshtml*",
+              "RelativeToolTip": "psikolog randevu projesi\\Views\\Admin\\Index.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:25:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "psikolog randevu projesi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zeynep\\source\\repos\\psikolog randevu projesi\\psikolog randevu projesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "psikolog randevu projesi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:21:33.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
